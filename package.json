@@ -4,7 +4,8 @@
   "description": "A simple Slackbot to insult my friends",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "LBTrejo",
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/lbtrejo/jerkbot/issues"
   },
-  "homepage": "https://github.com/lbtrejo/jerkbot#readme"
+  "homepage": "https://github.com/lbtrejo/jerkbot#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "slackbots": "^1.2.0"
+  }
 }
