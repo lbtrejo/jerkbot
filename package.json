@@ -1,0 +1,20 @@
+{
+  "name": "jerkbot",
+  "version": "1.0.0",
+  "description": "A simple Slackbot to insult my friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LBTrejo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbtrejo/jerkbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lbtrejo/jerkbot/issues"
+  },
+  "homepage": "https://github.com/lbtrejo/jerkbot#readme"
+}
